@@ -17,4 +17,4 @@ Materi yang dipelajari:
 
 ### 1. Genius Education Landing Page
 
-[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](https://cperdiansyah.github.io/Dicoding-Front-End-Web-Developer/belajar-dasar-pemrograman-web/app/)
+[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](https://cperdiansyah.github.io/dicoding-belajar-dasar-pemrograman-web/app/)
